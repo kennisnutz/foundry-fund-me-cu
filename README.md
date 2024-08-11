@@ -1,9 +1,10 @@
-Here's the content rewritten in raw markdown syntax:
 
 ```markdown
 # Foundry Fund Me
 
-This repository provides the codebase for deploying and interacting with a smart contract that allows users to fund and withdraw funds. It leverages Foundry and zkSync for testing and deployment on local and test networks.
+This repository provides the codebase for deploying and interacting with a smart contract that allows users to fund and withdraw funds. It leverages Foundry and zkSync for testing and deployment on local and test networks. 
+
+SEPOLIA DEPLOYMENT ADDRESS: 0xea7C0294FF4DE9aeCa8772cAd31adAEcd5d95d59
 
 ## Getting Started
 
